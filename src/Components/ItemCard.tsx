@@ -5,9 +5,10 @@ interface ItemCardProps {
     alt: string
     name: string
     price: string
+    content: string
 }
 
-export default function ItemCard({src, name, price}: ItemCardProps) {
+export default function ItemCard({src, name, price, alt, content}: ItemCardProps) {
 
     const {setModalVisible, setModalContent}:any = useCardContext()
 
@@ -15,15 +16,15 @@ export default function ItemCard({src, name, price}: ItemCardProps) {
         setModalVisible(true)
         setModalContent({
             title: name,
-            content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione modi exercitationem harum!',
+            content: content,
             src: src
         })
     }
     return (
         <div className="drink-face2">
-            <img src={src} alt="pinacolada" />
-            <h4 onClick={() => handleChangeModal()}>{name}</h4>
-            <h4>{price}</h4>
+            <img src={src} alt={alt} />
+            <h4 className="name-item" onClick={() => handleChangeModal()}>{name}</h4>
+            <h4 className="price-item">{price}</h4>
         </div>
     )
 }
