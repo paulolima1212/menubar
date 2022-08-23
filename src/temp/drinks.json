@@ -1,6 +1,24 @@
 {
     "drinks":[
         {
+            "name":"FINO 30CL",
+            "src": "src/image/Drinks/fino.png",
+            "price": "5€",
+            "content":"Fino SUPER BOCK 30cl Geladissimo"
+        },
+        {
+            "name":"FINO 50CL",
+            "src": "src/image/Drinks/finog.png",
+            "price": "5€",
+            "content":"Gin tónico é um coquetel preparado com gin e água tônica colocados sobre uma grande quantidade de gelo em um copo alto e/ou de borda larga, e enfeitado com uma fatia ou rodela de lima que é ligeiramente espremida sobre o copo."
+        },
+        {
+            "name":"SUPER BOCK 33CL",
+            "src": "src/image/Drinks/superm.png",
+            "price": "5€",
+            "content":"Gin tónico é um coquetel preparado com gin e água tônica colocados sobre uma grande quantidade de gelo em um copo alto e/ou de borda larga, e enfeitado com uma fatia ou rodela de lima que é ligeiramente espremida sobre o copo."
+        },
+        {
             "name":"GIN TONICA",
             "src": "src/image/Drinks/gintonica.svg",
             "price": "5€",
@@ -29,6 +47,355 @@
             "src": "src/image/Drinks/mojito.svg",
             "price": "5€",
             "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },
+        {
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },
+        {
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },
+        {
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
+        },{
+            "name":"BLOOD MARY",
+            "src": "src/image/Drinks/bloodymary.svg",
+            "price": "5€",
+            "content":"Um cocktail com ingredientes variados salgados, combinados com grande sucesso. Sirva com os talos de aipo, faz toda a diferença."
+        },
+        {
+            "name":"MARGARITA",
+            "src": "src/image/Drinks/margarita.svg",
+            "price": "5€",
+            "content":"A Margarita é uma bebida rápida e simples de preparar. Um cocktail muito elegante, perfeito para beber ao final do dia. Saiba como preparar uma Margarita clássica."
+        },
+        {
+            "name":"PIÑA COLADA",
+            "src": "src/image/Drinks/pinacolada2.svg",
+            "price": "5€",
+            "content":"Piña colada é um coquetel feito com rum, creme de coco ou leite de coco e suco de abacaxi. Geralmente é servido com gelo moído. Pode ser guarnecido com uma fatia de abacaxi, cereja marasquino ou ambos."
+        },
+        {
+            "name":"MOJITO",
+            "src": "src/image/Drinks/mojito.svg",
+            "price": "5€",
+            "content":"O mojito, drinque a base de rum quase primo da caipirinha, é delicioso e super refrescante graças as folhas frescas de hortelã. Irresistível!"
         }
+
     ]
 }
