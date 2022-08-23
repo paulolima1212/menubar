@@ -13,6 +13,7 @@ export default function ItemCard({src, name, price, alt, content}: ItemCardProps
     const {setModalVisible, setModalContent}:any = useCardContext()
 
     function handleChangeModal(){
+        window.scrollTo(0,0)
         setModalVisible(true)
         setModalContent({
             title: name,

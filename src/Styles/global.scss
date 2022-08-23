@@ -237,6 +237,7 @@ body
     .name-item 
     {
         margin-left: 20px;
+        font-family: 'Orelega One';
     }
 
     .price-item 
@@ -292,7 +293,6 @@ footer
             }
         }
     }
-
 }
 
 .modal  
@@ -307,6 +307,9 @@ footer
     .frame-modal 
     {
         position: absolute;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         margin-top: 30px;
         height: 600px;
         width: 300px;
@@ -328,28 +331,38 @@ footer
 
     img 
     {
-        position: absolute;
-        left: 3px;
-        right: 63.29%;
-        top: 55px;
-        bottom: 55.73%;
+        position: relative;
+        margin-top: 65px;
         width: 150px;
         height: 150px;
     }
 
     .desc-modal 
     {
-        position: absolute;
-        width: 137px;
-        height: 76px;
-        left: 153.68px;
-        top: 80px;
+        position: relative;
+        align-items: center;
+        margin: 20px 20px;
+        padding-top: 10px;
+        height: 45%;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
         font-size: 13.615px;
         line-height: 19px;
         letter-spacing: 0.07em;
+
+        &::before
+        {
+            content: '';
+            position: absolute;
+            margin-top: 1px;
+            left: 12px;
+            top: -5px;
+            width: 230px;
+            height: 0px;
+            border: 2px dashed #550404;
+            border-style: inset;
+        }
     }
 
     .teor-alcolico
