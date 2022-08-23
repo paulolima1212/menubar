@@ -306,7 +306,7 @@ footer
 
     .frame-modal 
     {
-        position: absolute;
+        position: relative;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -342,7 +342,6 @@ footer
         position: relative;
         align-items: center;
         margin: 20px 20px;
-        padding-top: 10px;
         height: 45%;
         font-family: 'Inter';
         font-style: normal;
@@ -351,20 +350,17 @@ footer
         line-height: 19px;
         letter-spacing: 0.07em;
 
-        &::before
-        {
-            content: '';
-            position: absolute;
-            margin-top: 1px;
-            left: 12px;
-            top: -5px;
-            width: 230px;
-            height: 0px;
-            border: 2px dashed #550404;
-            border-style: inset;
-        }
     }
-
+    
+    .line-separator
+    {
+        content: '';
+        width: 230px;
+        margin-top: 20px;
+        height: 0px;
+        border: 2px dashed #550404;
+        border-style: inset;
+    }
     .teor-alcolico
     {
         position: absolute;
